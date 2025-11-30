@@ -9,7 +9,7 @@
 <b>Utilité :</b><br>
 <i>Kanban Trello est un gestionnaire Kanban ultra‑léger et autonome : une seule page HTML/JS pouvant être ouverte dans n'importe quel navigateur moderne. Il fonctionne sans serveur, stocke tout dans <code>localStorage</code> (avec compression LZ‑String), gère plusieurs tableaux (boards), colonnes, cartes, historique (Undo), snapshots, versioning, timer par carte, vues calendrier & liste, export/import (JSON ou compressé), modes de visualisation (thèmes, orientation), lecture seule et verrouillage granulaire. Idéal pour : prototypage, gestion personnelle de tâches, planification offline, démonstrations pédagogiques, usage en contexte isolé (air‑gapped), embarqué dans d'autres apps ou WebViews.</i><br><br>
 
-<b>Philosophie :</b><br>
+
 <i>Tout est local, aucune requête réseau hors CDN CSS/ICÔNES facultatifs. Les données ne quittent jamais votre machine (sauf si vous exportez). Le code privilégie la lisibilité, des structures plates et des opérations synchrone rapides.</i><br><br>
 
 <b>Résumé rapide des capacités :</b><br>
